@@ -7,9 +7,10 @@ Berikut adalah ringkasan hasil tugas Saya:
 [File Tugas EMT format LaTeX](https://github.com/fahriza10/Fahriza-Iffah-Handayani_23030630087_Mat-E/blob/4baa8b4e1a88ff0d163fe3ee0f55a6b3815ba510/2303630087_Fahriza%20Iffah%20Handayani_Aplikasi%20Komputer.tex)
 
 3. File Tugas EMT format Markdown
-[File Tugas EMT format Markdown]()
+[File Tugas EMT format Markdown](https://github.com/fahriza10/Fahriza-Iffah-Handayani_23030630087_Mat-E/blob/b372734429bf21bc71f5928bd5a0244555b27e35/2303630087_Fahriza%20Iffah%20Handayani_Aplikasi%20Komputer.md)
 
 4. PDF Tugas EMT[PDF]()
+   
 5. PDF Tugas Membuat Dokumen Dengan Latex Menggunakan Overleaf
 [PDF]()
 
